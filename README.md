@@ -1,6 +1,6 @@
 # pianoKeyboard
 A flexible virtual piano keyboard based on HTML, CSS and JavaScript.
-You can embed the piano in your website with only a few lines of JavaScript. The piano will create [Plaie and Easie](http://www.iaml.info/plaine-easie-code) music code and can render it to a SVG displaying the played notes using the great [Verovio Toolkit](http://www.verovio.org/download.xhtml).
+You can embed the piano in your website with only a few lines of JavaScript. The piano will create [Plaine and Easie](http://www.iaml.info/plaine-easie-code) music code and can render it to a SVG displaying the played notes using the great [Verovio Toolkit](http://www.verovio.org/download.xhtml).
 
 ![Screenshot of Virtual Piano Keyboard](piano_screenshot.png "Screenshot of Virtual Piano Keyboard")
 
@@ -162,13 +162,10 @@ Currently the keyboard / key size is set fixed in the `piano_style.css`.
 If you have an idea how to make the keyboard scale depending on its container size, please create a pull request.
 
 # License and Contribution
-pianoKeyboard was developed by Anna Neovesky and 
+pianoKeyboard was developed by Anna Neovesky and
 Gabriel Reimers at the [Digital Academy](https://www.digitale-akademie.de) of the [Academy of Sciences and Literatur | Mainz](https://www.adwmainz.de)
- 
+
 This framework is license under MIT License.
 Any contributions in form of bug reports or pull requests are welcome.
 
 The [Verovio Framework](https://github.com/rism-ch/verovio) is developed by the [Swiss RISM Office](http://rism-ch.org/), licensed under LGPL and is not affiliated with this project.
-
-
-
