@@ -1,6 +1,6 @@
 # pianoKeyboard
 A flexible virtual piano keyboard based on HTML, CSS and JavaScript.
-You can embed the piano in your website with only a few lines of JavaScript. The piano will create [Plaie and Easie](http://www.iaml.info/plaine-easie-code) music code and can render it to a SVG displaying the played notes using the great [Verovio Toolkit](http://www.verovio.org/download.xhtml).
+You can embed the piano in your website with only a few lines of JavaScript. The piano will create [Plaie and Easie](https://www.iaml.info/plaine-easie-code) music code and can render it to a SVG displaying the played notes using the great [Verovio Toolkit](https://www.verovio.org/download.xhtml).
 
 ![Screenshot of Virtual Piano Keyboard](piano_screenshot.png "Screenshot of Virtual Piano Keyboard")
 
@@ -11,14 +11,14 @@ The keyboard and the Verovio Toolkit work on any recent browser (for Internet Ex
 
 ## Installation
 For the piano display you  ned the `piano.js` and `piano_style.css` files and jQuery.
-If you want to display the played notes in musical notation, you also need to reference the [Verovio Toolkit](http://www.verovio.org/download.xhtml).
+If you want to display the played notes in musical notation, you also need to reference the [Verovio Toolkit](https://www.verovio.org/download.xhtml).
 
 Embed it like this:
 
 ```HTML
 <link rel="stylesheet" href="piano_style.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script src="http://www.verovio.org/javascript/latest/verovio-toolkit.js"></script> <!--Only needed for notes display-->
+<script src="https://www.verovio.org/javascript/latest/verovio-toolkit.js"></script> <!--Only needed for notes display-->
 <script src="piano.js"></script>
 ```
 
@@ -168,7 +168,7 @@ Gabriel Reimers at the [Digital Academy](https://www.digitale-akademie.de) of th
 This framework is license under MIT License.
 Any contributions in form of bug reports or pull requests are welcome.
 
-The [Verovio Framework](https://github.com/rism-ch/verovio) is developed by the [Swiss RISM Office](http://rism-ch.org/), licensed under LGPL and is not affiliated with this project.
+The [Verovio Framework](https://github.com/rism-ch/verovio) is developed by the [RISM Digital Center](https://rism.digital/), licensed under LGPL and is not affiliated with this project.
 
 
 
